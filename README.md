@@ -1,0 +1,2 @@
+# UsbSerialforAndroidDemos
+针对于各种手机从市面上大部分USB芯片读取串口数据
